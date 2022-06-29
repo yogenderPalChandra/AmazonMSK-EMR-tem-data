@@ -1,0 +1,8 @@
+commandsNotes 
+cloudformation/dev-cluster.json
+cloudformation/notes.md
+cloudformation/stack-glue.yml
+cloudformation/stack-hive.yml
+
+emr_jars/*.jar
+ssm_params.sh
